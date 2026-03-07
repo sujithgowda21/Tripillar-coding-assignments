@@ -1,6 +1,6 @@
 package Module4;
 
-public class Animal {
+final class Animal {
     void eat() {
         System.out.println(" i am veg ");
     }
