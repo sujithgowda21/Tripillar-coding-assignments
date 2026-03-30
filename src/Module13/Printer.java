@@ -10,7 +10,7 @@ public class Printer {
 
         q.add("Sapthagiri ");
         q.add("NPS ");
-        q.add("University ");
+        q.add("University");
 
         while (!q.isEmpty()) {
             System.out.println("Printing: " + q.poll());
